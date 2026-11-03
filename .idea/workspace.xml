@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca415357-2a61-47d8-88b1-84a57728531e" name="Changes" comment="" />
+    <list default="true" id="ca415357-2a61-47d8-88b1-84a57728531e" name="Changes" comment="ejercicio" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +17,83 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Simulacro. Lenguaje Java" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "juanpaco777i-jpg"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/juanpaco777i-jpg/SimulacroLenguajeJava..git",
+    "accountId": "0e2c7a16-fe43-40ba-b5ed-1ad3d0604e46"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000000011542" />
+      <entry key="S10" value="1.0000014628440181" />
+      <entry key="S30" value="1.0178575847959013" />
+      <entry key="S60" value="1.1887672566356398" />
+      <entry key="M2" value="1.6142612997904788" />
+      <entry key="M5" value="2.247180182351026" />
+      <entry key="M10" value="2.579336193713267" />
+      <entry key="M15" value="2.70867163773272" />
+      <entry key="M30" value="2.8486033956219545" />
+      <entry key="H1" value="2.92281159284322" />
+      <entry key="H2" value="2.9610258971993972" />
+      <entry key="H4" value="2.9804170362040447" />
+      <entry key="D1" value="2.9967227712015183" />
+      <entry key="W1" value="2.999531495204729" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9138314502294005" />
+      <entry key="MS500" value="0.9821395952633915" />
+      <entry key="S2" value="0.995504677670617" />
+      <entry key="S5" value="0.9981994402877817" />
+      <entry key="S10" value="0.9991007754698089" />
+      <entry key="S30" value="1.0175489199562555" />
+      <entry key="S60" value="1.1885721343252973" />
+      <entry key="M2" value="1.6141123880014108" />
+      <entry key="M5" value="2.2470898559964874" />
+      <entry key="M10" value="2.579282931344877" />
+      <entry key="M15" value="2.708634024536945" />
+      <entry key="M30" value="2.8485834496264615" />
+      <entry key="H1" value="2.9228013175872953" />
+      <entry key="H2" value="2.9610206817281743" />
+      <entry key="H4" value="2.980414408716123" />
+      <entry key="D1" value="2.996722330518432" />
+      <entry key="W1" value="2.9995314321818753" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4,
@@ -32,6 +106,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ejercicio1.executor": "Run",
     "Application.Ejercicio2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -39,6 +114,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -74,5 +150,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ejercicio" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio" />
   </component>
 </project>
